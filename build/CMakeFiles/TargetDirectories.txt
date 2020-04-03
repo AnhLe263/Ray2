@@ -1,0 +1,3 @@
+/Users/letuananh/Desktop/GuiPrac/VolRedenring/R2/build/CMakeFiles/rebuild_cache.dir
+/Users/letuananh/Desktop/GuiPrac/VolRedenring/R2/build/CMakeFiles/edit_cache.dir
+/Users/letuananh/Desktop/GuiPrac/VolRedenring/R2/build/CMakeFiles/R2.dir
